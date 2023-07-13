@@ -22,7 +22,7 @@ The [docs directory](https://github.com/EnricoSimionato/Named-Entity-Recognition
 ### Model evaluation directory
 The [model evaluation directory](https://github.com/EnricoSimionato/Named-Entity-Recognition-Project/tree/master/model%20evaluation) contains some files regarding the performances of the models on the NER task.
 ### Pos tags directory
-The [pos tags directory](https://github.com/EnricoSimionato/Named-Entity-Recognition-Project/tree/master/pos%20tags) contains the part-of-speech tags for the datasets that are used in the project.
+The [pos_tags directory](https://github.com/EnricoSimionato/Named-Entity-Recognition-Project/tree/master/pos_tags) contains the part-of-speech tags for the datasets that are used in the project.
 
 ## Contributors
 The project is realized by:
