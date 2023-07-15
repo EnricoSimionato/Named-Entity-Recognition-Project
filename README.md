@@ -31,5 +31,5 @@ The project is realized by:
 - Michael Vitali (https://github.com/MichaelVitali)
 
 ## References
-The KIND dataset can be found at https://github.com/dhfbk/KIND.
+The KIND dataset can be found at https://github.com/dhfbk/KIND. <br>
 The related paper can be found at https://arxiv.org/abs/2112.15099.
