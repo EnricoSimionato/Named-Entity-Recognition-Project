@@ -30,7 +30,6 @@ The project is realized by:
 - Enrico Simionato (https://github.com/EnricoSimionato),
 - Michael Vitali (https://github.com/MichaelVitali)
 
-## Credits
-The KIND dataset, explained in the following can be found at https://github.com/dhfbk/KIND.
-
+## References
+The KIND dataset can be found at https://github.com/dhfbk/KIND.
 The related paper can be found at https://arxiv.org/abs/2112.15099.
